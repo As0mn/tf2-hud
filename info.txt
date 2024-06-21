@@ -1,1 +1,1 @@
-Place these folders in tf/custom, one version is the improved main menu and the other one is the 2012 main menu.
+Place these folders in tf/custom, one version has the improved main menu and the other one is the 2012 main menu.
